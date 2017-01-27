@@ -1,0 +1,7 @@
+E:\Problema stackbuilder\Problem 18\TDDProyect\bin\Debug\TDDProyect.dll
+E:\Problema stackbuilder\Problem 18\TDDProyect\bin\Debug\TDDProyect.pdb
+E:\Problema stackbuilder\Problem 18\TDDProyect\obj\Debug\TDDProyect.csprojResolveAssemblyReference.cache
+E:\Problema stackbuilder\Problem 18\TDDProyect\obj\Debug\TDDProyect.dll
+E:\Problema stackbuilder\Problem 18\TDDProyect\obj\Debug\TDDProyect.pdb
+E:\Problema stackbuilder\Problem 18\TDDProyect\bin\Debug\SumaRutaValorMaximo.dll
+E:\Problema stackbuilder\Problem 18\TDDProyect\bin\Debug\SumaRutaValorMaximo.pdb
