@@ -1,0 +1,18 @@
+c:\users\jdominguez\documents\visual studio 2015\Projects\Problem 18\Ejercicio18\bin\Debug\Ejercicio18.exe.config
+c:\users\jdominguez\documents\visual studio 2015\Projects\Problem 18\Ejercicio18\bin\Debug\Ejercicio18.exe
+c:\users\jdominguez\documents\visual studio 2015\Projects\Problem 18\Ejercicio18\bin\Debug\Ejercicio18.pdb
+c:\users\jdominguez\documents\visual studio 2015\Projects\Problem 18\Ejercicio18\obj\Debug\Ejercicio18.Form1.resources
+c:\users\jdominguez\documents\visual studio 2015\Projects\Problem 18\Ejercicio18\obj\Debug\Ejercicio18.Properties.Resources.resources
+c:\users\jdominguez\documents\visual studio 2015\Projects\Problem 18\Ejercicio18\obj\Debug\Ejercicio18.csproj.GenerateResource.Cache
+c:\users\jdominguez\documents\visual studio 2015\Projects\Problem 18\Ejercicio18\obj\Debug\Ejercicio18.exe
+c:\users\jdominguez\documents\visual studio 2015\Projects\Problem 18\Ejercicio18\obj\Debug\Ejercicio18.pdb
+c:\users\jdominguez\documents\visual studio 2015\Projects\Problem 18\Ejercicio18\obj\Debug\Ejercicio18.csprojResolveAssemblyReference.cache
+E:\Problema stackbuilder\Problem 18\Ejercicio18\bin\Debug\Ejercicio18.exe.config
+E:\Problema stackbuilder\Problem 18\Ejercicio18\obj\Debug\Ejercicio18.exe
+E:\Problema stackbuilder\Problem 18\Ejercicio18\obj\Debug\Ejercicio18.pdb
+E:\Problema stackbuilder\Problem 18\Ejercicio18\bin\Debug\Ejercicio18.exe
+E:\Problema stackbuilder\Problem 18\Ejercicio18\bin\Debug\Ejercicio18.pdb
+E:\Problema stackbuilder\Problem 18\Ejercicio18\obj\Debug\Ejercicio18.csprojResolveAssemblyReference.cache
+E:\Problema stackbuilder\Problem 18\Ejercicio18\obj\Debug\Ejercicio18.Form1.resources
+E:\Problema stackbuilder\Problem 18\Ejercicio18\obj\Debug\Ejercicio18.Properties.Resources.resources
+E:\Problema stackbuilder\Problem 18\Ejercicio18\obj\Debug\Ejercicio18.csproj.GenerateResource.Cache

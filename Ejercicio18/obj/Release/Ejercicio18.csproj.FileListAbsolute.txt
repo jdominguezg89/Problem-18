@@ -1,0 +1,8 @@
+E:\Problema stackbuilder\Problem 18\Ejercicio18\bin\Release\Ejercicio18.exe.config
+E:\Problema stackbuilder\Problem 18\Ejercicio18\bin\Release\Ejercicio18.exe
+E:\Problema stackbuilder\Problem 18\Ejercicio18\bin\Release\Ejercicio18.pdb
+E:\Problema stackbuilder\Problem 18\Ejercicio18\obj\Release\Ejercicio18.Form1.resources
+E:\Problema stackbuilder\Problem 18\Ejercicio18\obj\Release\Ejercicio18.Properties.Resources.resources
+E:\Problema stackbuilder\Problem 18\Ejercicio18\obj\Release\Ejercicio18.csproj.GenerateResource.Cache
+E:\Problema stackbuilder\Problem 18\Ejercicio18\obj\Release\Ejercicio18.exe
+E:\Problema stackbuilder\Problem 18\Ejercicio18\obj\Release\Ejercicio18.pdb
