@@ -1,0 +1,5 @@
+E:\Problema stackbuilder\Problem 18\Ejercicio18Consola\bin\Release\Ejercicio18Consola.exe.config
+E:\Problema stackbuilder\Problem 18\Ejercicio18Consola\bin\Release\Ejercicio18Consola.exe
+E:\Problema stackbuilder\Problem 18\Ejercicio18Consola\bin\Release\Ejercicio18Consola.pdb
+E:\Problema stackbuilder\Problem 18\Ejercicio18Consola\obj\Release\Ejercicio18Consola.exe
+E:\Problema stackbuilder\Problem 18\Ejercicio18Consola\obj\Release\Ejercicio18Consola.pdb

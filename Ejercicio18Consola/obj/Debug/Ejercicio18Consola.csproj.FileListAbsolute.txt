@@ -1,0 +1,6 @@
+E:\Problema stackbuilder\Problem 18\Ejercicio18Consola\bin\Debug\Ejercicio18Consola.exe.config
+E:\Problema stackbuilder\Problem 18\Ejercicio18Consola\bin\Debug\Ejercicio18Consola.exe
+E:\Problema stackbuilder\Problem 18\Ejercicio18Consola\bin\Debug\Ejercicio18Consola.pdb
+E:\Problema stackbuilder\Problem 18\Ejercicio18Consola\obj\Debug\Ejercicio18Consola.csprojResolveAssemblyReference.cache
+E:\Problema stackbuilder\Problem 18\Ejercicio18Consola\obj\Debug\Ejercicio18Consola.exe
+E:\Problema stackbuilder\Problem 18\Ejercicio18Consola\obj\Debug\Ejercicio18Consola.pdb
