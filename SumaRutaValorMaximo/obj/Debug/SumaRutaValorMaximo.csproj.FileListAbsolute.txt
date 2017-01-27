@@ -1,0 +1,5 @@
+E:\Problema stackbuilder\Problem 18\SumaRutaValorMaximo\bin\Debug\SumaRutaValorMaximo.dll
+E:\Problema stackbuilder\Problem 18\SumaRutaValorMaximo\bin\Debug\SumaRutaValorMaximo.pdb
+E:\Problema stackbuilder\Problem 18\SumaRutaValorMaximo\obj\Debug\SumaRutaValorMaximo.dll
+E:\Problema stackbuilder\Problem 18\SumaRutaValorMaximo\obj\Debug\SumaRutaValorMaximo.pdb
+E:\Problema stackbuilder\Problem 18\SumaRutaValorMaximo\obj\Debug\SumaRutaValorMaximo.csprojResolveAssemblyReference.cache
